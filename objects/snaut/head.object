@@ -1,0 +1,25 @@
+{
+  "objectName" : "HHsnaunthead",
+  "colonyTags" : ["pretty","valuable"],
+  "rarity" : "Common",
+  "description" : "Head of a Snaunt.",
+  "shortdescription" : "Snaunt Head",
+  "category" : "hunter",
+  "price" : 30,
+  "printable" : false,
+"collectablesOnPickup" : { "headhunting" : "snaunt" },
+  
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "head.png:<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

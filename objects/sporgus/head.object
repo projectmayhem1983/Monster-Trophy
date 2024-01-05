@@ -1,0 +1,40 @@
+{
+  "objectName" : "HHsporgushead",
+  "colonyTags" : ["pretty","valuable"],
+  "rarity" : "Uncommon",
+  "description" : "Stool made from the cap of a Sporgus.",
+  "shortdescription" : "Sporgus Stool",
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+  "category" : "furniture",
+  "price" : 200,
+  "printable" : false,
+"collectablesOnPickup" : { "headhunting" : "sporgus" },
+  
+  "inventoryIcon" : "icon.png",
+   "orientations" : [
+    {
+      "image" : "head.png:<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+      "flipImages" : true,
+      "direction" : "left",
+      "sitPosition" : [2, 24],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "head.png:<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+      "direction" : "right",
+      "sitPosition" : [2, 24],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "objectName" : "HHringramhead",
+  "colonyTags" : ["pretty","valuable"],
+  "rarity" : "Uncommon",
+  "description" : "Horn of a Ringram.",
+  "shortdescription" : "Ringram Horn",
+  "category" : "hunter",
+  "price" : 40,
+  "printable" : false,
+"collectablesOnPickup" : { "headhunting" : "ringram" },
+  
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "head.png:<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

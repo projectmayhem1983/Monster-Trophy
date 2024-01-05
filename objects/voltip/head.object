@@ -1,0 +1,25 @@
+{
+  "objectName" : "HHvoltiphead",
+  "colonyTags" : ["pretty","valuable"],
+  "rarity" : "Rare",
+  "description" : "Head of a Voltip.",
+  "shortdescription" : "Voltip Head",
+  "category" : "hunter",
+  "price" : 600,
+  "printable" : false,
+"collectablesOnPickup" : { "headhunting" : "voltip" },
+  
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "head.png:<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}
