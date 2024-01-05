@@ -1,0 +1,25 @@
+{
+  "objectName" : "HHbobothead",
+  "colonyTags" : ["pretty","valuable"],
+  "rarity" : "Uncommon",
+  "description" : "Bobot head n a pike .",
+  "shortdescription" : "Bobot Head Pike",
+  "category" : "hunter",
+  "price" : 300,
+  "printable" : false,
+"collectablesOnPickup" : { "headhunting" : "bobot" },
+  
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "head.png:<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

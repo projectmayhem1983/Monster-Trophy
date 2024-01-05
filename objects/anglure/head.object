@@ -1,0 +1,25 @@
+{
+  "objectName" : "HHanglurehead",
+  "colonyTags" : ["pretty","valuable"],
+  "rarity" : "Rare",
+  "description" : "Anglure on a meathook.",
+  "shortdescription" : "Anglure Meathook",
+  "category" : "hunter",
+  "price" : 100,
+  "printable" : false,
+"collectablesOnPickup" : { "headhunting" : "anglure" },
+  
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "head.png:<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ]
+
+    }
+  ]
+}
