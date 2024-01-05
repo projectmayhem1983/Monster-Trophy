@@ -1,0 +1,378 @@
+[
+  {
+    "op": "add",
+    "path": "/adultpoptopTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.25,
+      "item": "HHadultpoptophead"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/anglureTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.25,
+      "item": "HHanglurehead"
+    }
+  },
+  {
+        "op": "add",
+        "path": "/bonedragonTreasure/0/1/pool/-",
+        "value": {
+            "weight": 0.25,
+            "item": "HHdragonhead"
+        }
+    },
+  {
+    "op": "add",
+    "path": "/bobotTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.25,
+      "item": "HHbobothead"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/crustoiseTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.25,
+      "item": "HHcrustoisehead"
+    }
+  },
+    {
+    "op": "add",
+    "path": "/iguarmorTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.25,
+      "item": "HHiguarmorhead"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/triplodTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.25,
+      "item": "HHtriplodhead"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/bulbopTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.25,
+      "item": "HHbulbophead"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/capricoatTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.25,
+      "item": "HHcapricoathead"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/crabcanoTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.25,
+      "item": "HHcrabcanohead"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/crutterTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.25,
+      "item": "HHcrutterhead"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/fennixTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.25,
+      "item": "HHfennixhead"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/gleapTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.25,
+      "item": "HHgleaphead"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/hemogoblinTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.25,
+      "item": "HHhemogoblinhead"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/hypnareTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.25,
+      "item": "HHhypnarehead"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/lilodonTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.25,
+      "item": "HHlilodonhead"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mandrafloraTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.25,
+      "item": "HHmandraflorahead"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/miasmopTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.25,
+      "item": "HHmisamophead"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/nutmidgelingTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.25,
+      "item": "HHkingnutmidgelinghead"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/narfinTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.25,
+      "item": "HHnarfinhead"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/ooglerTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.25,
+      "item": "HHooglerhead"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/orbideTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.25,
+      "item": "HHorbidehead"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/peblitTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.25,
+      "item": "HHpeblithead"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/petricubTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.25,
+      "item": "HHpetricubhead"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/pipkinTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.25,
+      "item": "HHpipkinhead"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/poptopTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.25,
+      "item": "HHpoptophead"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/nutmidgelingTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.25,
+      "item": "HHkingnutmidgelinghead"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/quagmuttTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.25,
+      "item": "HHquagmutthead"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/ringramTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.25,
+      "item": "HHringramhead"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scaveranTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.25,
+      "item": "HHscaveranhead"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/smoglinTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.25,
+      "item": "HHsmoglinhead"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/snauntTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.25,
+      "item": "HHsnaunthead"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/snuffishTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.25,
+      "item": "HHsnuffishhead"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/sporgusTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.25,
+      "item": "HHsporgushead"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/taroniTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.25,
+      "item": "HHtaronihead"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/toumingoTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.25,
+      "item": "HHtoumingohead"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/tentacleclamTreasure",
+    "value": [
+      [
+        1,
+        {
+          "pool": [
+            {
+              "weight": 0.799,
+              "pool": "basicMonsterTreasure"
+            },
+            {
+              "weight": 0.25,
+              "item": "HHtentacleclamhead"
+            }
+          ],
+          "poolRounds": [
+            [
+              0.2,
+              0
+            ],
+            [
+              0.8,
+              1
+            ]
+          ],
+          "allowDuplication": false
+        }
+      ]
+    ]
+  },
+   {
+    "op": "add",
+    "path": "/tankTreasure",
+    "value": [
+      [
+        1,
+        {
+          "pool": [
+            {
+              "weight": 0.799,
+              "pool": "basicMonsterTreasure"
+            },
+            {
+              "weight": 0.25,
+              "item": "HHtankhead"
+            }
+          ],
+          "poolRounds": [
+            [
+              0.2,
+              0
+            ],
+            [
+              0.8,
+              1
+            ]
+          ],
+          "allowDuplication": false
+        }
+      ]
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/trictusTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.25,
+      "item": "HHtrictushead"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/voltipTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.25,
+      "item": "HHvoltiphead"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/yokatTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.25,
+      "item": "HHyokathead"
+    }
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 0 }
+    
+  ],
+  "output" : { "item" : "HHtentacleclamhead", "count" : 1 },
+  "groups" : [ "tester" ]
+}

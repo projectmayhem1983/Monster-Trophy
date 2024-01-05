@@ -1,0 +1,16 @@
+{
+  "name" : "collectionhunter",
+
+  "triggers" : [
+    "itemSet.category.hunter"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "itemSet.category.hunter",
+      "op" : "sizeAtLeast",
+      "value" : 25
+    }
+  ]
+}

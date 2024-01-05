@@ -1,0 +1,11 @@
+{
+  "version" : "1.6",
+  "tags" : "Furniture and Objects",
+  "author" : "ProjectMayhem",
+  "description" : "Collect trophies from monsters to display your kills!\n\nNow required Custom Collections UI - This will help you keep track of the collection!\nhttp://steamcommunity.com/sharedfiles/filedetails/?id=760881689&searchtext=custom+collections\n\nCurrently 38 monsters have trophy drops. More to come!\n\nIncluded Trophies:\n\nAdultpoptop\nAnglure\nBobot\nBulbop\nCapricoat\nCrabcano\nCrutter\nDragon\nFennix\nGleap\nHemogoblin\nHypnare\nNutmidgeling\nLilodon\nMandraflora\nMiasmop\nNarfin\nOogler\nOrbide\nPeblit\nPetricub\nPipkin\nPoptop\nQuagmutt\nRingram\nScaveran\nSmoglin\nSnaunt\nSnuffish\nSporgus\nTank\nTaroni\nTentacle Clam\nToumingo\nTrictus\nVoltip\nYokat\n\nThis mod was inspired by the Predator mod http://steamcommunity.com/sharedfiles/filedetails/?id=926350582\nand the Hunting + Incarnate mod http://steamcommunity.com/sharedfiles/filedetails/?id=943055909\nI figured if you are going to hunt, might as well have something to show for it!",
+  "name" : "Monster Trophy Mod",
+  "priority" : 99,
+  "friendlyName" : "Monster Trophies",
+  "steamContentId" : "944611111",
+  "link" : "steam://url/CommunityFilePage/944611111"
+}

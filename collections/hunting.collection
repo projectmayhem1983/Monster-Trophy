@@ -1,0 +1,170 @@
+{
+  "name" : "headhunting",
+  "title" : "Monster Trophies",
+  "type" : "item",
+
+  "collectables" : {
+
+   
+    "adultpoptop" : {
+      "order" : 1,
+      "item" : "HHadultpoptophead"
+    },
+    "anglure" : {
+      "order" : 2,
+      "item" : "HHanglurehead"
+    },
+    "bobot" : {
+      "order" : 3,
+      "item" : "HHbobothead"
+    },
+    "bulbop" : {
+      "order" : 4,
+      "item" : "HHbulbophead"
+    },
+    "capricoat" : {
+      "order" : 5,
+      "item" : "HHcapricoathead"
+    },
+    "crabcano" : {
+      "order" : 6,
+      "item" : "HHcrabcanohead"
+    },
+    "crutter" : {
+      "order" : 7,
+      "item" : "HHcrutterhead"
+    },
+    "dragon" : {
+      "order" : 8,
+      "item" : "HHdragonhead"
+    },
+    "fennix" : {
+      "order" : 9,
+      "item" : "HHfennixhead"
+    },
+    "gleap" : {
+      "order" : 10,
+      "item" : "HHgleaphead"
+    },
+    "hemogoblin" : {
+      "order" : 11,
+      "item" : "HHhemogoblinhead"
+    },
+    "hypnare" : {
+      "order" : 12,
+      "item" : "HHhypnarehead"
+    },
+    "kingnutmidgeling" : {
+      "order" : 13,
+      "item" : "HHkingnutmidgelinghead"
+    },
+    "lilodon" : {
+      "order" : 14,
+      "item" : "HHlilodonhead"
+    },
+    "mandraflora" : {
+      "order" : 15,
+      "item" : "HHmandraflorahead"
+    },
+    "misamop" : {
+      "order" : 16,
+      "item" : "HHmisamophead"
+    },
+    "narfin" : {
+      "order" : 17,
+      "item" : "HHnarfinhead"
+    },
+    "oogler" : {
+      "order" : 18,
+      "item" : "HHooglerhead"
+    },
+    "orbide" : {
+      "order" : 19,
+      "item" : "HHorbidehead"
+    },
+    "peblit" : {
+      "order" : 20,
+      "item" : "HHpeblithead"
+    },
+    "petricub" : {
+      "order" : 21,
+      "item" : "HHpetricubhead"
+    },
+    "pipkin" : {
+      "order" : 22,
+      "item" : "HHpipkinhead"
+    },
+    "poptop" : {
+      "order" : 23,
+      "item" : "HHpoptophead"
+    },
+    "quagmutt" : {
+      "order" : 24,
+      "item" : "HHquagmutthead"
+    },
+    "ringram" : {
+      "order" : 25,
+      "item" : "HHringramhead"
+    },
+    "scaveran" : {
+      "order" : 26,
+      "item" : "HHscaveranhead"
+    },
+    "smoglin" : {
+      "order" : 27,
+      "item" : "HHsmoglinhead"
+    },
+    "snaunt" : {
+      "order" : 28,
+      "item" : "HHsnaunthead"
+    },
+    "snuffish" : {
+      "order" : 29,
+      "item" : "HHsnuffishhead"
+    },
+    "sporgus" : {
+      "order" : 30,
+      "item" : "HHsporgushead"
+    },
+    "tank" : {
+      "order" : 31,
+      "item" : "HHtankhead"
+    },
+    "taroni" : {
+      "order" : 32,
+      "item" : "HHtaronihead"
+    },
+    "tentacleclam" : {
+      "order" : 33,
+      "item" : "HHtentacleclamhead"
+    },
+    "toumingo" : {
+      "order" : 34,
+      "item" : "HHtoumingohead"
+    },
+    "trictus" : {
+      "order" : 35,
+      "item" : "HHtrictushead"
+    },
+    "voltip" : {
+      "order" : 36,
+      "item" : "HHvoltiphead"
+    },
+    "yokat" : {
+      "order" : 37,
+      "item" : "HHyokathead"
+    },
+	"iguarmor" : {
+      "order" : 38,
+      "item" : "HHiguarmorhead"
+    },
+	"crustoise" : {
+      "order" : 39,
+      "item" : "HHcrustoisehead"
+    },
+	"triplod" : {
+      "order" : 40,
+      "item" : "HHtriplodhead"
+    }
+  }
+}
