@@ -1,0 +1,25 @@
+{
+  "objectName" : "HHcrabcanohead",
+  "colonyTags" : ["pretty","valuable"],
+  "rarity" : "Rare",
+  "description" : "Yummy boiled Crabcano.",
+  "shortdescription" : "Crabcano Cauldron",
+  "category" : "hunter",
+  "price" : 600,
+  "printable" : false,
+"collectablesOnPickup" : { "headhunting" : "crabcano" },
+  
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "head.png:<color>.<frame>",
+      "imagePosition" : [-8, 0],
+      "frames" : 4,
+      "animationCycle" : 1.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

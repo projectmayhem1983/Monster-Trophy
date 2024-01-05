@@ -1,0 +1,25 @@
+{
+  "objectName" : "HHgleaphead",
+  "colonyTags" : ["pretty","valuable"],
+  "rarity" : "Rare",
+  "description" : "Gleap hanging on a chain.",
+  "shortdescription" : "Hanging Gleap",
+  "category" : "hunter",
+  "price" : 600,
+  "printable" : false,
+"collectablesOnPickup" : { "headhunting" : "gleap" },
+  
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "head.png:<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ]
+
+    }
+  ]
+}

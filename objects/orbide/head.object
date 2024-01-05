@@ -1,0 +1,25 @@
+{
+  "objectName" : "HHorbidehead",
+  "colonyTags" : ["pretty","valuable"],
+  "rarity" : "Rare",
+  "description" : "Head of an Orbide.",
+  "shortdescription" : "Orbide Head Display",
+  "category" : "hunter",
+  "price" : 600,
+  "printable" : false,
+"collectablesOnPickup" : { "headhunting" : "orbide" },
+  
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "head.png:<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

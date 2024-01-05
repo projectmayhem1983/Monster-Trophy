@@ -1,0 +1,25 @@
+{
+  "objectName" : "HHmandraflorahead",
+  "colonyTags" : ["pretty","valuable"],
+  "rarity" : "Rare",
+  "description" : "Head of a Mandraflora.",
+  "shortdescription" : "Mandraflora Head",
+  "category" : "hunter",
+  "price" : 600,
+  "printable" : false,
+"collectablesOnPickup" : { "headhunting" : "mandraflora" },
+  
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "head.png:<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}
